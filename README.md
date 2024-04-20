@@ -10,13 +10,13 @@ Para iniciar el frontend y que funcione correctamente, recuerden iniciar primero
 - Para correrlo en modo producción, http://localhost:4173
 
 ```bash
+  npm run build
   npm run preview
 ```
 
 - Para correrlo en modo developer, http://localhost:5173
 
 ```bash
-  npm run build
   npm run dev
 ```
 
