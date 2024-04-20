@@ -1,5 +1,5 @@
 
-# Frontend Toolbox
+# INSTRUCCIONES IMPORTANTES 👀
 
 Este es el frontend que contiene la tabla en donde se listan los archivos.
 Se puede filtrar por el que quieran o en caso de que no, pues esta la opcion All que les permite obtener todos los datos otra vez.
